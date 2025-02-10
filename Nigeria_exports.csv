@@ -1,0 +1,888 @@
+Name,Gross Export,Code,Sector,Share
+Transport,2023019520.0,transport,Services,3.0451481782905288%
+Travel & tourism,1126849280.0,travel,Services,1.6961887902099897%
+Insurance & finance,913383168.0,financial,Services,1.374869131325254%
+Business,800747456.0,ict,Services,1.2053243346407134%
+"Petroleum oils, crude",44871343277.0,2709,Minerals,67.54254612303767%
+Petroleum gases,6869301091.0,2711,Minerals,10.340008831643795%
+"Petroleum oils, refined",864847792.0,2710,Minerals,1.30181130348529%
+Electrical energy,118110862.0,2716,Minerals,0.17778626093317382%
+"Slag, ash and residues containing metals",69184136.0,2620,Minerals,0.10413935388374512%
+Cements,55055723.0,2523,Minerals,0.08287257386321115%
+Tin ore,53433267.0,2609,Minerals,0.08043037353646565%
+Lead ore,30609811.0,2607,Minerals,0.04607538843938955%
+Zirconium ore,21292794.0,2615,Minerals,0.03205095760015973%
+Zinc ore,18120150.0,2608,Minerals,0.02727533828385953%
+Uranium ore,14232585.0,2612,Minerals,0.021423584822906256%
+Coal,10932171.0,2701,Minerals,0.016455639837528877%
+Other ores,7823522.0,2617,Minerals,0.011776348933160997%
+Mineral substances n.e.c.,4231447.0,2530,Minerals,0.00636938150927131%
+Manganese > 47% by weight,4051371.0,2602,Minerals,0.006098322284220509%
+Feldspar,1834621.0,2529,Minerals,0.0027615614880490864%
+Iron ores and concentrates,1453804.0,2601,Minerals,0.0021883370666593883%
+Oils etc. from high temperature coal tar,1384755.0,2707,Minerals,0.002084401126109105%
+Titanium ore,1096995.0,2614,Minerals,0.0016512506640785247%
+Mica,1055669.0,2525,Minerals,0.0015890447424984728%
+Tungsten ore,1052634.0,2611,Minerals,0.0015844763116802116%
+Chromium ore,945187.0,2610,Minerals,0.001422741818721497%
+Precious metal ores,716769.0,2616,Minerals,0.0010789158448679347%
+Copper ore,652173.0,2603,Minerals,0.000981682778266158%
+Petroleum coke,293204.0,2713,Minerals,0.0004413450377718037%
+Quartz,272842.0,2506,Minerals,0.00041069515694101876%
+Marble,254634.0,2515,Minerals,0.0003832875825295203%
+Natural sands,207010.0,2505,Minerals,0.00031160160253318876%
+Granite,137911.0,2516,Minerals,0.00020759039953120427%
+Salt,43406.0,2501,Minerals,0.0000653368395708207%
+Petroleum jelly,34135.0,2712,Minerals,0.000051381675776389533%
+Kaolin,28588.0,2507,Minerals,0.000043032059384661614%
+Clays,23156.0,2508,Minerals,0.00003485554663184638%
+"Tar distilled from coal, lignite etc.",18511.0,2706,Minerals,0.00002786366486880758%
+Gypsum,17946.0,2520,Minerals,0.000027013199164584348%
+"Bitumen and asphalt, natural",13546.0,2714,Minerals,0.000020390103414881286%
+Limstone,10463.0,2521,Minerals,0.000015749420642987074%
+"Sulphur, crude",8135.0,2503,Minerals,0.000012245200891780545%
+Dolomite,8071.0,2518,Minerals,0.000012148864953603046%
+Natural calcium phosphates,5554.0,2510,Minerals,0.00000836015313496609%
+Chalk,5445.0,2509,Minerals,0.000008196080990257538%
+Pitch and pitch coke,4024.0,2708,Minerals,0.000006057122112910254%
+Peat,3219.0,2703,Minerals,0.000004845396640521399%
+Bituminous mixtures,2699.0,2715,Minerals,0.000004062667142829219%
+Quicklime,2640.0,2522,Minerals,0.0000039738574498218366%
+Siliceous fossil meals and earths,2420.0,2512,Minerals,0.0000036427026623366837%
+Gravel,1585.0,2517,Minerals,0.0000023858197189271253%
+Trade data discrepancies,2702992155.0,XXXX,Other,4.06867633028664%
+Commodities not specified according to kind,167083875.0,9999,Other,0.2515028414446403%
+Nitrogenous fertilizers,1699291175.0,3102,Chemicals,2.5578563996932773%
+Natural rubber,64256856.0,4001,Chemicals,0.0967225704233822%
+"Other plates of plastics, noncellular and not reinforced",22631956.0,3920,Chemicals,0.03406672990706061%
+Rare-earth metals,16470848.0,2805,Chemicals,0.02479272804154663%
+"Insecticides, rodenticides, fungicides, etc.",16258402.0,3808,Chemicals,0.02447294390526449%
+Polymers of ethylene,14937998.0,3901,Chemicals,0.022485407059743823%
+Plastic waste,11035247.0,3915,Chemicals,0.016610794886959875%
+Polyacetals,8361219.0,3907,Chemicals,0.01258571682300829%
+Soap,6707082.0,3401,Chemicals,0.010095828701615888%
+Packing lids,5803514.0,3923,Chemicals,0.00873573384244141%
+Activated carbon,3724376.0,3802,Chemicals,0.005606113376340019%
+Potassic fertilizers,3619441.0,3104,Chemicals,0.005448160068954772%
+Make-up preparations,3619112.0,3304,Chemicals,0.005447664842022578%
+Polymers of propylene,3280739.0,3902,Chemicals,0.00493832921063297%
+Industrial monocarboxylic fatty acids,2814142.0,3823,Chemicals,0.0042359845271047435%
+Dental hygiene products,2664122.0,3306,Chemicals,0.00401016706702055%
+Zinc oxide or peroxide,2583487.0,2817,Chemicals,0.003888791311162071%
+Hair products,2468224.0,3305,Chemicals,0.0037152917917534292%
+Other articles of plastic,2237305.0,3926,Chemicals,0.003367701190065774%
+Other inorganic acids,1996136.0,2811,Chemicals,0.0030046817857793794%
+Cleaning products,1978961.0,3402,Chemicals,0.002978829133620027%
+Mixed fertilizers,1948738.0,3105,Chemicals,0.0029333359920647372%
+Perfumes,1686929.0,3303,Chemicals,0.0025392482477160985%
+"Other plastic plates, sheets etc.",1462377.0,3921,Chemicals,0.0022012415666280713%
+Quaternary ammonium salts and hydroxides,1258272.0,2923,Chemicals,0.0018940127125387203%
+"Metal base oxides, n.e.c.",1190759.0,2825,Chemicals,0.001792388834504697%
+Glues and adhesives,1030569.0,3506,Chemicals,0.0015512629917444848%
+Prepared pigments,883304.0,3207,Chemicals,0.0013295924927490255%
+"Medicaments, not packaged",787480.0,3003,Chemicals,0.001185353509312765%
+Detonators,761512.0,3603,Chemicals,0.0011462652023972448%
+Anti-knock,679974.0,3811,Chemicals,0.001023530206661043%
+Polymers of styrene,665866.0,3903,Chemicals,0.0010022941532890405%
+Synthetic rubber,664458.0,4002,Chemicals,0.0010001747626491356%
+Refractory cements,619918.0,3816,Chemicals,0.0009331309706737323%
+Flourides,609743.0,2826,Chemicals,0.0009178150617525439%
+"Prepared explosives, except gunpowder",589590.0,3602,Chemicals,0.0008874797779698699%
+Plastic tubes and fittings,578850.0,3917,Chemicals,0.0008713134033444584%
+Plastic household articles,545162.0,3924,Chemicals,0.0008206045738862773%
+Natural polymers,533710.0,3913,Chemicals,0.000803366461948641%
+Catalytic preparations,387860.0,3815,Chemicals,0.0005838258903363248%
+Sodium hydroxide,360342.0,2815,Chemicals,0.0005424044474180682%
+Self-adhesive plastic sheets,331714.0,3919,Chemicals,0.0004993121780720457%
+"Medicaments, packaged",319628.0,3004,Chemicals,0.0004811197382468386%
+Polymers of vinyl chloride,314738.0,3904,Chemicals,0.00047375907047046413%
+Carboxyamide-function compounds,310363.0,2924,Chemicals,0.00046717360594661166%
+Toiletries,284754.0,3307,Chemicals,0.00042862568343430575%
+Sulfates,264116.0,2833,Chemicals,0.0003975603538701304%
+"Paints and varnishes, nonaqueous",235102.0,3208,Chemicals,0.0003538870583969748%
+Acyclic alcohols,225210.0,2905,Chemicals,0.0003389971349524151%
+Other coloring matter,203257.0,3206,Chemicals,0.00030595240290849884%
+Carbon,200870.0,2803,Chemicals,0.000302359373464285%
+Synthetic organic coloring matter,192609.0,3204,Chemicals,0.0002899245111942175%
+Lead oxides,184457.0,2824,Chemicals,0.00027765372106885853%
+Diagnostic or laboratory reagents,182805.0,3822,Chemicals,0.00027516704966465183%
+New pneumatic tires of rubber,149356.0,4011,Chemicals,0.00022481797472560235%
+Mixtures of odoriferous subtances,143022.0,3302,Chemicals,0.00021528372734409801%
+Other articles of vulcanized rubber,139857.0,4016,Chemicals,0.00021051961415141386%
+Vitamins,130522.0,2936,Chemicals,0.0001964681144188052%
+Ink,101820.0,3215,Chemicals,0.00015326445664426492%
+Organo-sulfur compounds,100327.0,2930,Chemicals,0.00015101711983646796%
+Carbonates,90394.0,2836,Chemicals,0.0001360654811815133%
+Iron oxides and hydroxides,85645.0,2821,Chemicals,0.00012891705351893607%
+"Paints and varnishes, aqueous",82306.0,3209,Chemicals,0.00012389102699433184%
+Silicon & rare gases,82104.0,2804,Chemicals,0.0001235869666894591%
+Albumins,81473.0,3502,Chemicals,0.00012263715454899034%
+Acrylic polymers,73955.0,3906,Chemicals,0.00011132069231120225%
+Esters of other inorganic acids of nonmetals,67352.0,2920,Chemicals,0.00010138153293954557%
+Plastic builders' ware,64344.0,3925,Chemicals,0.00009685374384520311%
+Organic composite solvents and thinners,61059.0,3814,Chemicals,0.00009190900076843618%
+Essential oils,60325.0,3301,Chemicals,0.00009080414797746299%
+Conveyor belts of vulcanized rubber,57399.0,4010,Chemicals,0.00008639978930391045%
+Sulfides of nonmetals,55689.0,2813,Chemicals,0.0000838258134557304%
+Hyopchlorites,53393.0,2828,Chemicals,0.00008036976167361263%
+Hydraulic fluids,52539.0,3819,Chemicals,0.00007908427899855662%
+Serums and vaccines,50318.0,3002,Chemicals,0.0000757411208939906%
+"Pigments, nonaqueous",48939.0,3212,Chemicals,0.00007366538247607229%
+Casein,48339.0,3501,Chemicals,0.00007276223305565825%
+Artificial and prepared waxes,47460.0,3404,Chemicals,0.00007143911915475165%
+Titanium oxides,47098.0,2823,Chemicals,0.00007089421900443518%
+Sulfonitric acids,46416.0,2808,Chemicals,0.0000698676391632312%
+"Sulfonated, nitrated derivatives of hydrocarbons",46379.0,2904,Chemicals,0.00006981194494897233%
+Glaziers' putty,45584.0,3214,Chemicals,0.00006861527196692372%
+Oxygen-function amino-compounds,45270.0,2922,Chemicals,0.00006814262377024036%
+Animal or vegetable fertilizers,44120.0,3101,Chemicals,0.00006641158738111342%
+Lubricants,40770.0,3403,Chemicals,0.00006136900311713496%
+Antibiotics,38508.0,2941,Chemicals,0.00005796412980217396%
+Heterocyclic compounds with nitrogen hetero-atom(s) only,37484.0,2933,Chemicals,0.000056422754791333984%
+Ion-exchangers based on polymers,33278.0,3914,Chemicals,0.000050091677354231466%
+Turpentines,33145.0,3805,Chemicals,0.000049891479232706355%
+Aluminum oxide,32900.0,2818,Chemicals,0.00004952269321937062%
+Plastic floor coverings,32436.0,3918,Chemicals,0.00004882425766758374%
+Rubber inner tubes,28803.0,4013,Chemicals,0.000043355687926976655%
+"Nitrites, nitrates",28143.0,2834,Chemicals,0.00004236222356452119%
+Stabilizers for rubber or plastic,26796.0,3812,Chemicals,0.00004033465311569164%
+"Baths, sinks etc.",26317.0,3922,Chemicals,0.00003961363882839442%
+Photographic plates,26287.0,3701,Chemicals,0.00003956848135737372%
+Polymers of vinyl acetate,25945.0,3905,Chemicals,0.00003905368618773771%
+Acyclic hydrocarbons,25802.0,2901,Chemicals,0.00003883843557587236%
+Other paints and varnishes,24969.0,3210,Chemicals,0.000037584563130530845%
+"Chlorides, bromides, iodides etc.",22498.0,2827,Chemicals,0.00003386509276745897%
+Polyamides,18994.0,3908,Chemicals,0.000028590700152240898%
+Nucleic acids and their salts,16087.0,2934,Chemicals,0.000024214941210334804%
+Silicates,16079.0,2839,Chemicals,0.000024202899218062617%
+Cyanides,15247.0,2837,Chemicals,0.00002295053202175513%
+Vulcanized rubber tubes,13479.0,4009,Chemicals,0.000020289251729601717%
+Prepared culture media for micro-organisms,13249.0,3821,Chemicals,0.000019943044451776328%
+Phosphates,12264.0,2835,Chemicals,0.00001846037415326326%
+Polishes and creams,11247.0,3405,Chemicals,0.000016929535885661438%
+Used pneumatic tires of rubber,10673.0,4012,Chemicals,0.000016065522940131993%
+Enzymes,10338.0,3507,Chemicals,0.000015561264513734147%
+Vulcanized rubber articles of apparel,10098.0,4015,Chemicals,0.000015200004745568525%
+Iodine,9327.0,2801,Chemicals,0.000014039457740336466%
+Uranium,9236.0,2844,Chemicals,0.000013902480078240333%
+Matches,8954.0,3605,Chemicals,0.000013477999850645728%
+Silicones in primary forms,8209.0,3910,Chemicals,0.000012356589320298278%
+Heparin for therapeutic use,7607.0,3001,Chemicals,0.000011450429401816178%
+Coloring matter of animal or vegetable origin,7495.0,3203,Chemicals,0.000011281841510005554%
+"Sulfiric acid, oleum",7059.0,2807,Chemicals,0.000010625552931171343%
+Finishing agents,5673.0,3809,Chemicals,0.000008539277770014877%
+Cellulose n.e.c.,5514.0,3912,Chemicals,0.000008299943173605155%
+Dextrins and other modified starches,5116.0,3505,Chemicals,0.000007700854058063831%
+Phosphatic fertilizers,5056.0,3103,Chemicals,0.0000076105391160224254%
+Carboxylic acids with additional oxygen function,4873.0,2918,Chemicals,0.00000733507854279614%
+Amino-resins,3850.0,3909,Chemicals,0.000005795208780990178%
+Halogenated derivatives of hydrocarbons,3115.0,2903,Chemicals,0.000004688850740982962%
+"Wadding, gauze and bandages",3017.0,3005,Chemicals,0.000004541336335648667%
+Chemical preparations for photographic uses,2896.0,3707,Chemicals,0.000004359201202531833%
+Candles,2853.0,3406,Chemicals,0.000004294475494068825%
+Pickling preparations for metal surfaces,2745.0,3810,Chemicals,0.000004131908598394296%
+Hydrochloric acid,2313.0,2806,Chemicals,0.0000034816410156961773%
+Unsaturated acyclic monocarboxylic acids,2258.0,2916,Chemicals,0.0000033988523188248888%
+Monofilament,2203.0,3916,Chemicals,0.000003316063621953601%
+Rosin and resin acids,1819.0,3806,Chemicals,0.0000027380479928886065%
+Ketones and quinones,1793.0,2914,Chemicals,0.0000026989115180039973%
+Aldehydes,1711.0,2912,Chemicals,0.0000025754810972140767%
+Rubber hygenic or pharmeceutical items,1430.0,4014,Chemicals,0.000002152506118653495%
+Gelatin,1425.0,3503,Chemicals,0.000002144979873483378%
+Saturated acyclic monocarboxylic acids,1148.0,2915,Chemicals,0.0000017280258910588896%
+Preparations for fire extinguishers,1004.0,3813,Chemicals,0.0000015112700301595164%
+Artificial graphite,904.0,3801,Chemicals,0.0000013607451267571744%
+Antifreezing preparation,891.0,3820,Chemicals,0.0000013411768893148698%
+Artists' colors,798.0,3213,Chemicals,0.0000012011887291506915%
+Compounded rubber,746.0,4005,Chemicals,0.0000011229157793814736%
+Sodium chlorate,742.0,2829,Chemicals,0.0000011168947832453798%
+Hard rubber,265.0,4017,Chemicals,3.988909940162071e-7%
+Cocoa beans,449985813.0,1801,Agriculture,0.6773407103424947%
+Other oil seeds,314319758.0,1207,Agriculture,0.4731295121039761%
+Cashew nuts & coconuts,215902238.0,0801,Agriculture,0.32498663519299514%
+Cigars and cigarettes,114638878.0,2402,Agriculture,0.17256006037102903%
+Solid soybean residues,73548123.0,2304,Agriculture,0.11070824109998588%
+Spices,51931876.0,0910,Agriculture,0.07817040618402418%
+Tanned sheepskins,51025846.0,4105,Agriculture,0.07680660540172793%
+Crustaceans,49470186.0,0306,Agriculture,0.07446494968945906%
+Tanned skins of other animals,38782005.0,4106,Agriculture,0.05837657556374156%
+Wood in the rough,38182880.0,4403,Agriculture,0.05747474323623227%
+Cocoa residues,37111245.0,1802,Agriculture,0.055861665687656575%
+Cocoa butter,36501367.0,1804,Agriculture,0.05494364741728445%
+Sugarcane & sucrose,36280437.0,1701,Agriculture,0.05461109274819764%
+Soya beans,32875538.0,1201,Agriculture,0.04948587181750033%
+Cut flowers,32316016.0,0603,Agriculture,0.048643651867485475%
+Wood charcoal,32018406.0,4402,Agriculture,0.04819567470246977%
+Cocoa paste,27270018.0,1803,Agriculture,0.041048168252301356%
+Seaweeds & edible vegetable products,23540064.0,1212,Agriculture,0.035433658596849556%
+Coconut & palm kernel oil,21928115.0,1513,Agriculture,0.03300727392170453%
+Tanned hides of bovines or equines,20832139.0,4104,Agriculture,0.031357557106391674%
+"Plants used in perfumery, pharmacy or insecticide",20821353.0,1211,Agriculture,0.0313413214903107%
+Cereal residues,17991740.0,2302,Agriculture,0.02708204925540058%
+Chocolates,17229837.0,1806,Agriculture,0.02593519550063103%
+Other manufactured tobacco,15186612.0,2403,Agriculture,0.022859633043088523%
+Wood sawn lengthwise,13314472.0,4407,Agriculture,0.02004159611653191%
+Starch residues,11989375.0,2303,Agriculture,0.018046995137294575%
+Beer,6633055.0,2203,Agriculture,0.009984399631374236%
+Sauces and seasonings,6499503.0,2103,Agriculture,0.009783370612382339%
+Soups and broths,6024252.0,2104,Agriculture,0.009067999503713673%
+Cardboard packing containers,5522489.0,4819,Agriculture,0.008312721232654979%
+"Milk, concentrated",5044558.0,0402,Agriculture,0.007593316056575131%
+Other vegetable fats and oils,4794877.0,1515,Agriculture,0.007217483972511128%
+Flour of dried legumes,3869655.0,1106,Agriculture,0.0058247944507539085%
+Bovine leather further prepared,3721336.0,4107,Agriculture,0.0056015374192765885%
+Lac,3539945.0,1301,Agriculture,0.0053284987917460456%
+Food preparations n.e.c.,3294474.0,2106,Agriculture,0.004959003806115282%
+Fuel wood,3111934.0,4401,Agriculture,0.004684235647444647%
+"Waters, flavored or sweetened",3078450.0,2202,Agriculture,0.004633833888789406%
+Pasta,2819222.0,1902,Agriculture,0.004243631192197582%
+Other nuts,2792858.0,0802,Agriculture,0.004203946806664589%
+Coffee extracts,2654890.0,2101,Agriculture,0.003996270607938446%
+Prepared aquatic invertibrates,2518759.0,1605,Agriculture,0.0037913595516878024%
+Peanuts,2267850.0,1202,Agriculture,0.0034136790218100197%
+"Legumes, dried",1915827.0,0713,Agriculture,0.002883796741105992%
+Confectionery sugar,1818710.0,1704,Agriculture,0.0027376114706687397%
+Other cereals,1672052.0,1008,Agriculture,0.0025168546578369323%
+Preserved fish,1667976.0,0305,Agriculture,0.0025107192627742527%
+Pepper,1555041.0,0904,Agriculture,0.0023407239631168175%
+Tissue,1459642.0,4803,Agriculture,0.002197124710520017%
+Malt extract,1309799.0,1901,Agriculture,0.0019715736795148453%
+Whalebone & horns,1218366.0,0507,Agriculture,0.0018339442445869816%
+Cereal foods,1123880.0,1904,Agriculture,0.0016917192843582446%
+"Bones, simply prepared",1103492.0,0506,Agriculture,0.001661030267052575%
+Ethyl alcohol > 80%,1085156.0,2207,Agriculture,0.0016334300207647213%
+"Fruits and nuts, otherwise prepared",1043021.0,2008,Agriculture,0.0015700063527161446%
+"Books, brochures etc.",982163.0,4901,Agriculture,0.0014783999070035472%
+Bakery products,909864.0,1905,Agriculture,0.0013695719070926876%
+Vegetable products n.e.c.,862716.0,1404,Agriculture,0.0012986024256365514%
+Wheat and meslin,811148.0,1001,Agriculture,0.0012209797434500314%
+Live Fish,781964.0,0301,Agriculture,0.001177050555641092%
+Cereal flours,776494.0,1102,Agriculture,0.0011688168434249838%
+Other fermented beverages,716280.0,2206,Agriculture,0.0010781797780902973%
+Fermented milk products,688894.0,0403,Agriculture,0.0010369570280445318%
+Palm oil,687927.0,1511,Agriculture,0.0010355014522286311%
+Chamois leather,667466.0,4108,Agriculture,0.0010047025517434778%
+Fruit juices,653380.0,2009,Agriculture,0.000983499613850224%
+"Onions, shallots, garlic",637130.0,0703,Agriculture,0.0009590393170473434%
+Grain sorghum,606061.0,1007,Agriculture,0.0009122727348092696%
+Tubers,590937.0,0714,Agriculture,0.0008895073484186994%
+"Other vegetables, prepared or preserved",585419.0,2005,Agriculture,0.0008812013842489582%
+Cocoa powder,567145.0,1805,Agriculture,0.0008536944634012142%
+Animal products used in pharmaceuticals,509274.0,0510,Agriculture,0.0007665841965532448%
+Toilet paper,476663.0,4818,Agriculture,0.0007174965203047068%
+Molluscs,461324.0,0307,Agriculture,0.0006944075053718215%
+Tapioca,453354.0,1903,Agriculture,0.0006824106705706549%
+Vegetable saps and extracts,443434.0,1302,Agriculture,0.0006674786001531426%
+Vegetable waxes and beeswax,400874.0,1521,Agriculture,0.0006034152012651057%
+Other vegetables,346396.0,0709,Agriculture,0.0005214122443895777%
+Stearic acid,346109.0,1519,Agriculture,0.0005209802379168129%
+Other paper cut to size,332966.0,4823,Agriculture,0.000501196749862643%
+Packing boxes,321493.0,4415,Agriculture,0.0004839270276952923%
+Raw skins of sheep or lambs,320583.0,4102,Agriculture,0.000482557251074331%
+Animal feed,318842.0,2309,Agriculture,0.00047993661250609617%
+Paper used for graphic purposes,306662.0,4802,Agriculture,0.00046160267927169095%
+Seeds used for sowing,303109.0,1209,Agriculture,0.0004562545294538057%
+Other articles of leather,299570.0,4205,Agriculture,0.00045092745312239686%
+Cloves,298382.0,0907,Agriculture,0.00044913921726997695%
+Other sugars,283314.0,1702,Agriculture,0.000426458124825312%
+Citrus fruit,281195.0,0805,Agriculture,0.0004232685021222164%
+Sunflower seeds,254914.0,1206,Agriculture,0.00038370905225904684%
+Waters,251983.0,2201,Agriculture,0.00037929716734032417%
+Peel of citrus fruit or melons,246505.0,0814,Agriculture,0.00037105141313194387%
+Starches,240335.0,1108,Agriculture,0.00036176402659201937%
+Flours of oil seeds,203325.0,1208,Agriculture,0.00030605475984281247%
+"Fruits, dried",188079.0,0813,Agriculture,0.00028310573307009136%
+"Tomatoes, prepared or preserved",182414.0,2002,Agriculture,0.00027457849729234867%
+Corn,180324.0,1005,Agriculture,0.0002714325268112397%
+Potatoes,178925.0,0701,Agriculture,0.00026932668341264095%
+Solid vegetable oil and fat residues,177520.0,2306,Agriculture,0.00026721180851983805%
+Other printed matter,174656.0,4911,Agriculture,0.0002629007752863949%
+Worked cereal grains,171094.0,1104,Agriculture,0.00025753907822720357%
+Potato flour,163247.0,1105,Agriculture,0.0002457273890572217%
+Leather apparel,162761.0,4203,Agriculture,0.0002449958380266863%
+Fish fillets,150206.0,0304,Agriculture,0.00022609743640452225%
+Trunks or cases,140811.0,4202,Agriculture,0.00021195562172987223%
+Legumes,125477.0,0708,Agriculture,0.00018887413304215705%
+"Vegetables, fruits and nuts, preserved by sugar",123236.0,2006,Agriculture,0.00018550086995691056%
+Cereal meals,107926.0,1103,Agriculture,0.00016245550724601195%
+Spirits < 80% alcohol,106917.0,2208,Agriculture,0.00016093671097068232%
+Tea,104618.0,0902,Agriculture,0.00015747614344146246%
+Plywood,103206.0,4412,Agriculture,0.0001553507318054214%
+Rice,100710.0,1006,Agriculture,0.00015159363021649894%
+Nutmeg,96089.0,0908,Agriculture,0.00014463787443027667%
+Products of plaiting materials,89853.0,4601,Agriculture,0.00013525114145410662%
+Other live animals,83455.0,0106,Agriculture,0.00012562055813442478%
+Prepared or preserved fish,82046.0,1604,Agriculture,0.00012349966224548575%
+"Vegetables, dried",79980.0,0712,Agriculture,0.00012038981774119337%
+Coffee,76642.0,0901,Agriculture,0.00011536529646562317%
+Other raw hides and skins,66085.0,4103,Agriculture,0.00009947438241343789%
+"Wood marquetry, ornaments, etc.",63384.0,4420,Agriculture,0.00009540870477254064%
+Sheets for veneering for plywood,57061.0,4408,Agriculture,0.00008589101513041054%
+Other parts of plants,56417.0,0604,Agriculture,0.00008492163475249945%
+Wine,55920.0,2204,Agriculture,0.00008417352598258981%
+Newsprint,55095.0,4801,Agriculture,0.00008293169552952049%
+Wood carpentry for construction,51254.0,4418,Agriculture,0.00007715003398983652%
+Butter,49580.0,0405,Agriculture,0.00007463024710688131%
+Milk,48312.0,0401,Agriculture,0.00007272159133173961%
+Wheat or meslin flour,46536.0,1101,Agriculture,0.00007004826904731401%
+"Newspapers, journals and periodicals",45729.0,4902,Agriculture,0.00006883353307685711%
+Other articles of wood,39146.0,4421,Agriculture,0.00005892447868588091%
+"Other vegetables, frozen",37416.0,2004,Agriculture,0.000056320397857020396%
+Flower bulbs,36921.0,0601,Agriculture,0.0000555752995851788%
+"Avocados, pineapples, mangos, etc.",36409.0,0804,Agriculture,0.000054804612079758804%
+Edible offal,35693.0,0206,Agriculture,0.00005372685377139803%
+"Eggs, in shell",34562.0,0407,Agriculture,0.00005202441711391754%
+Yeasts,32685.0,2102,Agriculture,0.000049199064677055576%
+Other live plants,32147.0,0602,Agriculture,0.000048389240696750976%
+Margarine,31534.0,1517,Agriculture,0.000047466523038894614%
+Bananas and plantains,29779.0,0803,Agriculture,0.00004482481098418351%
+Malt,28479.0,1107,Agriculture,0.000042867987239953065%
+Notebooks,26497.0,4820,Agriculture,0.000039884583654518636%
+Whey,26041.0,0404,Agriculture,0.00003919819009500396%
+Paper labels,25026.0,4821,Agriculture,0.00003767036232547018%
+Other prepared or preserved meat,23030.0,1602,Agriculture,0.00003466588525355943%
+Densified wood,22800.0,4413,Agriculture,0.00003431967797573405%
+"Animal or vegetable fats and oils, processed",22478.0,1518,Agriculture,0.0000338349877867785%
+Honey,22064.0,0409,Agriculture,0.000033211814686692806%
+Mate,21690.0,0903,Agriculture,0.00003264885154796805%
+"Vegetable fats, hydrogenated",19905.0,1516,Agriculture,0.00002996198202223623%
+Frozen vegetables,16936.0,0710,Agriculture,0.000025492897640220688%
+"Human hair, unworked",16336.0,0501,Agriculture,0.000024589748219806633%
+Vanilla,15601.0,0905,Agriculture,0.00002348339017979942%
+Other uncoated paper and paperboard,15410.0,4805,Agriculture,0.000023195887614300945%
+Cinnamon,14390.0,0906,Agriculture,0.000021660533599597057%
+Solid peanut residues,13468.0,2305,Agriculture,0.00002027269399022746%
+Poultry,13081.0,0207,Agriculture,0.000019690162614060394%
+Degras and wax residues,12889.0,1522,Agriculture,0.000019401154799527898%
+"Flours of fish, for animal feed",12261.0,2301,Agriculture,0.000018455858406161188%
+Strips and other pieces of wood,12250.0,4404,Agriculture,0.00001843930066678693%
+"Paper and paperboard, coated with kaolin",11318.0,4810,Agriculture,0.0000170364085670771%
+"Frozen fish, excluding fillets",11289.0,0303,Agriculture,0.000016992756345090422%
+Grapes,10962.0,0806,Agriculture,0.000016500539910964764%
+Wood shaped along its edges,10627.0,4409,Agriculture,0.000015996281484566915%
+Basketwork,10586.0,4602,Agriculture,0.000015934566274171956%
+Forage products,10306.0,1214,Agriculture,0.000015513096544645395%
+Pickled fruits and vegetables,10156.0,2001,Agriculture,0.000015287309189541884%
+Sunflower seed oil,9170.0,1512,Agriculture,0.000013803133641994787%
+"Jams, jellies and marmalades",8817.0,2007,Agriculture,0.000013271780732984519%
+Carbon paper,8263.0,4809,Agriculture,0.000012437872768135543%
+"Fruits and nuts, frozen",7856.0,0811,Agriculture,0.00001182523641128801%
+Animal products n.e.c.,7855.0,0511,Agriculture,0.000011823731162253987%
+"Cellulose wadding, coated",7773.0,4811,Agriculture,0.000011700300741464065%
+"Fish, excluding fillets",7441.0,0302,Agriculture,0.00001120055806216829%
+Fowl,6780.0,0105,Agriculture,0.000010205588450678808%
+Apples & pears,6536.0,0808,Agriculture,0.000009838307686377092%
+Melons and papayas,6394.0,0807,Agriculture,0.000009624562323545766%
+Unused stamps,5623.0,4907,Agriculture,0.000008464015318313708%
+"Vegetables, provisionally preserved",5605.0,0711,Agriculture,0.000008436920835701285%
+Corrugated paper and paperboard,5560.0,4808,Agriculture,0.000008369184629170231%
+Olive oil,5384.0,1509,Agriculture,0.00000810426079918211%
+Composition leather,4904.0,4111,Agriculture,0.000007381741262850866%
+Fiberboard of wood,4512.0,4411,Agriculture,0.000006791683641513684%
+Other fresh fruit,4428.0,0810,Agriculture,0.000006665242722655717%
+Children's books,4391.0,4903,Agriculture,0.00000660954850839685%
+Wooden kitchenware,4100.0,4419,Agriculture,0.000006171521039496033%
+Oats,4038.0,1004,Agriculture,0.000006078195599386582%
+"Rapeseed, colza or mustard oil,",4033.0,1514,Agriculture,0.000006070669354216464%
+Vegetable materials used for plaiting,3908.0,1401,Agriculture,0.000005882513224963537%
+"Music, printed or in manuscript",3749.0,4904,Agriculture,0.000005643178628553813%
+Wooden frames,3622.0,4414,Agriculture,0.000005452012001232838%
+Tomatoes,3333.0,0702,Agriculture,0.0000050169950304000684%
+Wood wool or flour,3221.0,4405,Agriculture,0.0000048484071385894454%
+Cigarette paper,3144.0,4813,Agriculture,0.000004732502962969641%
+Maps,3136.0,4905,Agriculture,0.000004720460970697454%
+Bovine,2752.0,0102,Agriculture,0.0000041424453416324596%
+Other carbon paper,2548.0,4816,Agriculture,0.0000038353745386916815%
+Furskin apparel,2513.0,4303,Agriculture,0.000003782690822500862%
+Articles of natural cork,1829.0,4503,Agriculture,0.0000027531004832288405%
+Calendars,1716.0,4910,Agriculture,0.0000025830073423841936%
+"Wine, flavored",1627.0,2205,Agriculture,0.000002449040178356109%
+"Architectural, engineering, etc. drawings",1374.0,4906,Agriculture,0.000002068212172748183%
+Peaches & cherries,1318.0,0809,Agriculture,0.0000019839182268428715%
+Particle board and similar board,1196.0,4410,Agriculture,0.0000018002778446920137%
+Peanut oil,1118.0,1508,Agriculture,0.000001682868420038187%
+Pulps of recovered paper fibers,1118.0,4706,Agriculture,0.000001682868420038187%
+Agglomerated cork,1073.0,4504,Agriculture,0.0000016151322135071329%
+Letterstock,970.0,4817,Agriculture,0.0000014600915630027202%
+Carrots & turnips,883.0,0706,Agriculture,0.0000013291348970426824%
+"Fruits and nuts, provisionally preserved",882.0,0812,Agriculture,0.000001327629648008659%
+Cereal straw and husks,820.0,1213,Agriculture,0.0000012343042078992067%
+Brushmaking hair,739.0,0502,Agriculture,0.0000011123790361433094%
+Glycerol,179.0,1520,Agriculture,2.6943957709019266e-7%
+"Special function vessels, n.e.c.",535380830.0,8905,Vehicles,0.8058814771921583%
+Cargo ships and similar vessels,81695210.0,8901,Vehicles,0.12297163593684068%
+Floating structures for scrapping,63030413.0,8908,Vehicles,0.0948764682823474%
+Other aircraft and spacecraft,34909711.0,8802,Vehicles,0.05254780876078686%
+Parts of motor vehicles,26856146.0,8708,Vehicles,0.04042518782409202%
+Tugs and pusher craft,5958702.0,8904,Vehicles,0.008969330429533438%
+Parts of other aircraft,2417812.0,8803,Vehicles,0.0036394091774502404%
+Tanks and other armored fighting vehicles,1995794.0,8710,Vehicles,0.003004166990609743%
+Cars,1409478.0,8703,Vehicles,0.002121615397977266%
+Special purpose motor vehicles,614214.0,8705,Vehicles,0.0009245450301836626%
+Motorcycles,384701.0,8711,Vehicles,0.0005790708086378448%
+Parts of motorcycles or wheelchairs,362381.0,8714,Vehicles,0.000545473650198442%
+Fishing vessels,356595.0,8902,Vehicles,0.0005367642792875824%
+Other floating structures,258883.0,8907,Vehicles,0.00038968338567508577%
+Motor vehicles for transporting goods,199028.0,8704,Vehicles,0.0002995867047436138%
+Buses,72011.0,8702,Vehicles,0.0001083944881890607%
+Tractors,70652.0,8701,Vehicles,0.00010634885475182286%
+Containers for multimodal transportation,68838.0,8609,Vehicles,0.00010361833300410439%
+Trailers and semi-trailers,60353.0,8716,Vehicles,0.00009084629495041564%
+Wheelchairs,7244.0,8713,Vehicles,0.000010904024002465676%
+Bicycles,2550.0,8712,Vehicles,0.000003838385036759728%
+Vehicle Bodies,2075.0,8707,Vehicles,0.0000031233917455986025%
+Railway track fixtures,2037.0,8608,Vehicles,0.0000030661922823057125%
+Aircraft launching gear,1343.0,8805,Vehicles,0.000002021549452693457%
+Pleasure or sport boats,1114.0,8903,Vehicles,0.0000016768474239020932%
+Work trucks,1039.0,8709,Vehicles,0.0000015639537463503365%
+Unwrought aluminum,254403813.0,7601,Metals,0.38294109377012553%
+Refined copper and copper alloys,140860775.0,7403,Metals,0.21203054550054073%
+Lead refined unwrought,98673242.0,7801,Metals,0.14852780220445944%
+Copper waste and scrap,89975363.0,7404,Metals,0.13543532824165683%
+"Waste or scrap, aluminium",33704721.0,7602,Metals,0.050733998727278976%
+Hot rolled bars of iron,11223623.0,7213,Metals,0.01689434767899307%
+"Aluminum containers, <300 liters",11222045.0,7612,Metals,0.016891972396017384%
+Ferrous waste and scrap,8988052.0,7204,Metals,0.013529256590752296%
+"Paper clips and similar office articles, of metal",7343497.0,8305,Metals,0.011053791765603904%
+Unwrought tin,4982049.0,8001,Metals,0.00749922444470736%
+"Stoppers, caps and lids of metal",3736067.0,8309,Metals,0.005623711242796787%
+Other bars and rods of iron or nonalloy steel,3633476.0,7215,Metals,0.005469286239147291%
+"Other tubes, pipes and hollow profiles of iron or steel",2251303.0,7306,Metals,0.003388771666044034%
+Zinc waste and scrap,2080014.0,7902,Metals,0.003130939064255196%
+"Structures and their parts, of iron or steel",1891710.0,7308,Metals,0.0028474946501524496%
+Unwrought zinc,1887182.0,7901,Metals,0.0028406788825263915%
+Iron and nonalloy steel,1608247.0,7206,Metals,0.002420812243221068%
+"Other bars of iron, not further worked than forged",1118040.0,7214,Metals,0.0016829286299995477%
+Angles of iron or nonalloy steel,975818.0,7216,Metals,0.0014688491018826685%
+Stainless steel in ingots,701993.0,7218,Metals,0.0010566742851412046%
+"Copper bars, rods and profiles",692825.0,7407,Metals,0.001042874161997278%
+Tube or pipe fittings of iron or steel,675461.0,7307,Metals,0.0010167370177704953%
+Magnesium,650718.0,8104,Metals,0.0009794926409216538%
+"Flat-rolled iron, width > 600mm, cold-rolled, not clad",609794.0,7209,Metals,0.0009178918294532792%
+Copper powders and flakes,574597.0,7406,Metals,0.0008649115792027567%
+Household articles of iron or steel,419049.0,7323,Metals,0.0006307731024584813%
+Nickel waste and scrap,346104.0,7503,Metals,0.0005209727116716428%
+Copper foil < 0.15 mm thick,314012.0,7410,Metals,0.0004726662596717631%
+Screws and similar articles of iron or steel,293268.0,7318,Metals,0.00044144137370998114%
+Other articles of iron or steel,273429.0,7326,Metals,0.0004115787381239905%
+Interchangeable tools for hand tools,253123.0,8207,Metals,0.0003810131512391109%
+"Other tubes and pipes, diameter > 406.4 mm, of iron or steel",240889.0,7305,Metals,0.0003625979345568683%
+"Flat-rolled iron, width > 600mm, hot-rolled, not clad",235518.0,7208,Metals,0.0003545132419951285%
+Zinc powders,216819.0,7903,Metals,0.00032636659030792453%
+Aluminum powders,198085.0,7603,Metals,0.00029816725490452973%
+Tungsten (wolfram),191579.0,8101,Metals,0.00028837410468917333%
+Wire of iron or nonalloy steel,188995.0,7217,Metals,0.0002844845411852568%
+"Base metal mountings, fittings and similar articles",180677.0,8302,Metals,0.00027196387972025%
+"Tubes, seamless, of iron or steel",176809.0,7304,Metals,0.00026614157645664735%
+Cloth of iron or steel wire,163956.0,7314,Metals,0.00024679461062234435%
+"Flat rolled iron, width > 600mm, clad",128276.0,7210,Metals,0.00019308732508838857%
+Sanitary ware and parts of iron or steel,107234.0,7324,Metals,0.00016141387491446773%
+Aluminum plates > 0.2 mm,89949.0,7606,Metals,0.00013539564536137286%
+Containers for compressed or liquified gas,89419.0,7311,Metals,0.00013459786337334046%
+Other metals,88389.0,8112,Metals,0.00013304745686829633%
+Household articles of copper,88159.0,7418,Metals,0.00013270124959047095%
+"Pliers, pincers and other metal handtools",64537.0,8203,Metals,0.00009714425690876964%
+Hand tools n.e.c.,58133.0,8205,Metals,0.00008750464209488365%
+"Wire of iron or steel, not insulated",52897.0,7312,Metals,0.00007962315815273701%
+"Tanks etc. > 300 liters, iron or steel",49183.0,7309,Metals,0.00007403266324037401%
+Nails and similar articles of iron or steel,41824.0,7317,Metals,0.00006295553559899564%
+Lead waste or scrap,40066.0,7802,Metals,0.00006030930779718246%
+"Aluminum structures (bridges, towers etc)",39547.0,7610,Metals,0.000059528083548524303%
+"Flat-rolled iron, width < 600mm, clad",39534.0,7212,Metals,0.000059508515311082%
+Retail tool sets,38612.0,8206,Metals,0.0000581206757017124%
+Other bars and rods of other alloy steel,25625.0,7228,Metals,0.000038572006496850214%
+Copper tubes and pipes,24087.0,7411,Metals,0.00003625693348252218%
+Aluminum foil < 0.2 mm,23493.0,7607,Metals,0.000035362815556312274%
+Safes,21022.0,8303,Metals,0.000031643345193240395%
+"Tanks etc. < 300 liters, iron or steel",20403.0,7310,Metals,0.0000307115960411799%
+Knives and blades for machines,20002.0,8208,Metals,0.000030107991178536506%
+Wire etc. used for welding,19928.0,8311,Metals,0.000029996602750018773%
+Stoves and similar non-electric appliances of iron or steel,19285.0,7321,Metals,0.00002902872762114171%
+Flexible tubing of base metal,17735.0,8307,Metals,0.000026695591618405407%
+Chain of iron or steel,17499.0,7315,Metals,0.000026340352846375878%
+Padlocks and locks,14887.0,8301,Metals,0.000022408642369506698%
+Aluminum bars,14865.0,7604,Metals,0.00002237552689075818%
+Wrenches,14515.0,8204,Metals,0.000021848689728849984%
+"Ornaments, statuettes, etc. of metal",13372.0,8306,Metals,0.000020128190082961213%
+Other cast articles of iron or steel,12879.0,7325,Metals,0.000019386102309187662%
+Sheet piling of iron or steel,11341.0,7301,Metals,0.000017071029294859642%
+Cutlery,11282.0,8215,Metals,0.000016982219601852258%
+"Clasps, buckles etc. of metal",9777.0,8308,Metals,0.000014716819805647005%
+Other articles of aluminum,9236.0,7616,Metals,0.000013902480078240333%
+Other bars and rods of stainless steel,7784.0,7222,Metals,0.000011716858480838323%
+Knife sets,6463.0,8211,Metals,0.000009728424506893381%
+Household articles of aluminum,5729.0,7615,Metals,0.000008623571715920191%
+Springs of iron or steel,5696.0,7320,Metals,0.000008573898497797418%
+Railway construction material of iron or steel,5691.0,7302,Metals,0.000008566372252627299%
+Handtools for gardening,5470.0,8201,Metals,0.000008233712216108124%
+Barbed wire of iron or steel,4952.0,7313,Metals,0.00000745399321648399%
+Other articles of lead,4683.0,7806,Metals,0.000007049081226331689%
+Other cutlery,4215.0,8214,Metals,0.0000063446246784087274%
+Aluminum containers for compressed or liquefied gas,3405.0,7613,Metals,0.000005125372960849755%
+Ferroalloys,3201.0,7202,Metals,0.000004818302157908977%
+Copper springs,3146.0,7416,Metals,0.000004735513461037688%
+"Flat-rolled iron, width < 600mm, not clad",2856.0,7211,Metals,0.000004298991241170896%
+"Aluminum wire, not insulated",2798.0,7614,Metals,0.0000042116867971975375%
+Aluminum tube or pipe fittings,1978.0,7609,Metals,0.000002977382589298331%
+Ferrous products from the reduction of iron ore,1940.0,7203,Metals,0.0000029201831260054405%
+Handsaws,1786.0,8202,Metals,0.0000026883747747658335%
+"Flat-rolled products of other alloy steel, width < 600 mm",1631.0,7226,Metals,0.0000024550611744922028%
+Flat-rolled products of stainless steel of a width < 600 mm,1484.0,7220,Metals,0.0000022337895664907596%
+Unrefined copper,1289.0,7402,Metals,0.000001940266004856192%
+Articles for sewing of iron or steel,1277.0,7319,Metals,0.0000019222030164479114%
+"Paper trays and similar office equipment, of base metal",1079.0,8304,Metals,0.0000016241637077112733%
+Tubes of cast iron,1035.0,7303,Metals,0.0000015579327502142427%
+Aluminum tubes and pipes,1008.0,7608,Metals,0.0000015172910262956102%
+Razors,984.0,8212,Metals,0.000001481165049479048%
+Copper tube or pipe fittings,848.0,7412,Metals,0.0000012764511808518626%
+Semifinished products of iron or nonalloy steel,644.0,7207,Metals,9.693803779110844e-7%
+Gold,191831793.0,7108,Stone,0.2887546211082312%
+Float glass,23635566.0,7005,Stone,0.03557741289009686%
+Scrap of precious metal,19399409.0,7112,Stone,0.029200941657875297%
+Glass containers for conveyance,16428217.0,7010,Stone,0.024728557769977174%
+Precious stones,10507470.0,7103,Stone,0.015816359067530095%
+Unglazed ceramic flags and pavers,1505489.0,6907,Stone,0.002266135862982889%
+Silver,1460590.0,7106,Stone,0.0021985516866042712%
+Worked building stone,396940.0,6802,Stone,0.0005974935515652575%
+"Glass, cast or rolled",286884.0,7003,Stone,0.00043183186387677565%
+Other ceramic articles,271112.0,6914,Stone,0.0004080910761121582%
+Ceramic wares for technical ware,215432.0,6909,Stone,0.00032427880989773406%
+Safety glass,163483.0,7007,Stone,0.0002460826278292512%
+Jewelry of precious metal,159669.0,7113,Stone,0.00024034160801348592%
+Porcelain or china household articles,137674.0,6911,Stone,0.00020723365551014074%
+Imitation jewelry,128891.0,7117,Stone,0.000194013053244313%
+Worked glass,111024.0,7006,Stone,0.0001671187687534165%
+"Ceramic sinks, washbasins, and similar sanitary fixtures",106590.0,6910,Stone,0.00016044449453655665%
+"Bricks, blocks, and other ceramic goods",95514.0,6901,Stone,0.0001437723562357132%
+Drawn and blown glass,91171.0,7004,Stone,0.00013723505968094948%
+Articles of stone or of other mineral substances,81916.0,6815,Stone,0.0001233039798710627%
+Glass mirrors,80610.0,7009,Stone,0.00012133812463262812%
+Ceramic household articles,75213.0,6912,Stone,0.0001132142955960037%
+Plaster articles,69535.0,6809,Stone,0.00010466749158081871%
+Glass paving blocks or other molded products,68647.0,7016,Stone,0.00010333083043860592%
+Other articles of precious metals,68635.0,7115,Stone,0.00010331276745019765%
+Diamonds,56173.0,7102,Stone,0.00008455435398819774%
+"Bricks, tiles and similar refractory ceramic constructional goods",55460.0,6902,Stone,0.00008348111142693904%
+Ornamental ceramic articles,33507.0,6913,Stone,0.00005043637938302283%
+Glassware for interior decorative use,28309.0,7013,Stone,0.00004261209490416908%
+Architectural ceramic ornaments,21922.0,6905,Stone,0.000032998069323861476%
+Glass beads,17624.0,7018,Stone,0.00002652850897562881%
+Other refractory ceramic goods,15791.0,6903,Stone,0.000023769387496263872%
+Grindstones,14424.0,6804,Stone,0.000021711712066753854%
+Mica articles,13641.0,6814,Stone,0.000020533102073113513%
+Articles of precious stones,10901.0,7116,Stone,0.00001640871971988933%
+Asbestos-cement or cellulose fiber-cement,9225.0,6811,Stone,0.000013885922338866075%
+Friction material and articles thereof,8688.0,6813,Stone,0.000013077603607595498%
+Synthetic precious stones,7057.0,7104,Stone,0.000010622542433103296%
+Glass balls,5201.0,7002,Stone,0.000007828800225955822%
+"Laboratory, hygienic or pharmaceutical glassware",4763.0,7017,Stone,0.000007169501149053563%
+Ceramic building bricks,3323.0,6904,Stone,0.0000050019425400598345%
+Cullet and other scraps of glass,3075.0,7001,Stone,0.000004628640779622026%
+Pearls,1972.0,7101,Stone,0.00000296835109509419%
+Panels of vegetable fibers,1440.0,6808,Stone,0.000002167558608993729%
+Mineral wools and insulating materials,846.0,6806,Stone,0.0000012734406827838156%
+"Articles of cement, of concrete or of artificial stone",778.0,6810,Stone,0.000001171083748470223%
+Other articles of glass,758.0,7020,Stone,0.0000011409787677897546%
+Wigs,14351522.0,6704,Textiles,0.0216026146272659%
+Paintings and drawings,11473955.0,9701,Textiles,0.017271159680178224%
+Raw cotton,10827240.0,5201,Textiles,0.016297692551139765%
+Synthetic staple fibers,9868843.0,5503,Textiles,0.01485506639267882%
+Cotton waste,5070133.0,5202,Textiles,0.007631812800620279%
+Bags for packing goods,4941201.0,6305,Textiles,0.007437738032165572%
+Cotton yarn of > 85%,1231293.0,5205,Textiles,0.0018534025988498025%
+Human animal hair prepared for use in wigs,1204130.0,6703,Textiles,0.0018125155193386242%
+Other footwear of rubber or plastics,1175497.0,6402,Textiles,0.0017694157237474317%
+Other furniture and parts,1154704.0,9403,Textiles,0.0017381170805829825%
+Sculptures,968298.0,9703,Textiles,0.0014575296291468123%
+Used clothes and textiles,564925.0,6309,Textiles,0.0008503528105456822%
+Women's suits and pants,555100.0,6204,Textiles,0.0008355637387864022%
+Woven fabrics of cotton of > 85% weighing < 200 g/m2,520516.0,5208,Textiles,0.000783506206193736%
+Garments made of textile felts and nonwoven fabric,437345.0,6210,Textiles,0.0006583131387849739%
+"Hats, knit",314887.0,6505,Textiles,0.0004739833525765336%
+Seats,312330.0,9401,Textiles,0.0004701344307965357%
+"T-shirts, knit",291322.0,6109,Textiles,0.00043851215908977164%
+Antiques >100 years,279405.0,9706,Textiles,0.00042057410635131453%
+Leather footwear,250804.0,6403,Textiles,0.00037752247872921055%
+Textile footwear,222207.0,6404,Textiles,0.00033447687210324276%
+Other clothing accesories,221696.0,6217,Textiles,0.00033370768984685676%
+Synthetic filament yarn,210857.0,5402,Textiles,0.0003173922955670769%
+"Other garments, knit",199177.0,6114,Textiles,0.0002998109868496833%
+Other footwear,186692.0,6405,Textiles,0.0002810179526599009%
+Collectors pieces,185310.0,9705,Textiles,0.0002789376984948805%
+Men's suits and pants,172460.0,6203,Textiles,0.0002595952484076795%
+Other furnishing articles,154486.0,6304,Textiles,0.00023253990227014253%
+Mattresses and bedding,152286.0,9404,Textiles,0.00022922835439529097%
+Original engravings,151751.0,9702,Textiles,0.00022842304616208845%
+Activewear,151702.0,6211,Textiles,0.00022834928895942128%
+Other knitted fabrics,145575.0,6002,Textiles,0.0002191266281279598%
+"Shawls, scarves, etc.",141270.0,6214,Textiles,0.00021264653103648896%
+"Women's suits, knit",128910.0,6104,Textiles,0.00019404165297595943%
+Other woven fabrics of synthetic staple fibers,125911.0,5515,Textiles,0.0001895274111229232%
+"Synthetic staple fibers, processed",120765.0,5506,Textiles,0.00018178139959383868%
+"Sweaters, pullovers, sweatshirts etc., knit",102143.0,6110,Textiles,0.00015375065208225448%
+Woven fabrics of cotton of < 85% weighing > 200 g/m2,88864.0,5209,Textiles,0.00013376245015945745%
+Men's shirts,76091.0,6205,Textiles,0.00011453590424787627%
+Stiffened textiles,69474.0,5901,Textiles,0.00010457567138974329%
+Other woven cotton fabrics,68395.0,5212,Textiles,0.00010295150768203202%
+"Men's shirts, knit",64712.0,6105,Textiles,0.00009740767548972375%
+Waste of man-made fibers,61437.0,5505,Textiles,0.00009247798490329704%
+Lamps,58938.0,9405,Textiles,0.0000887163675672725%
+Embroidery in the piece,57341.0,5810,Textiles,0.0000863124848599371%
+Twine and ropes of baste fibers,56741.0,5607,Textiles,0.00008540933543952304%
+"Tents, tarpaulins, etc.",54683.0,6306,Textiles,0.00008231153292750283%
+"Carpets, knotted",53629.0,5701,Textiles,0.00008072500044564215%
+Women's shirts,43687.0,6206,Textiles,0.00006575981454938128%
+Waterproof footwear,43057.0,6401,Textiles,0.00006481150765794652%
+Woven fabrics of synthetic filament yarn,41757.0,5407,Textiles,0.00006285468391371607%
+Parts of umbrellas or walking sticks,38479.0,6603,Textiles,0.00005792047758018729%
+"Yarn of wool or animal hair, for retail sale",37615.0,5109,Textiles,0.00005661994241479105%
+Woven carpets and rugs,36724.0,5702,Textiles,0.00005527876552547618%
+Woven fabrics of cotton of < 85% weighing > 200 g/m2,36526.0,5211,Textiles,0.00005498072621673954%
+Synthetic filament tow,34425.0,5501,Textiles,0.00005181819799625633%
+Lace and net fabrics,34365.0,5804,Textiles,0.00005172788305421492%
+Textile fabrics impregnated with plastics,33017.0,5903,Textiles,0.000049698807356351354%
+"Medical, dental or veterinary furniture",29333.0,9402,Textiles,0.00004415346991500907%
+Other headgear,28934.0,6506,Textiles,0.00004355287555043372%
+Parts of footwear,27789.0,6406,Textiles,0.0000418293654064769%
+"Women's shirts, knit",24324.0,6106,Textiles,0.00003661367750358574%
+"Men's suits, knit",23296.0,6103,Textiles,0.00003506628149660966%
+Cotton sewing thread,22601.0,5204,Textiles,0.00003402013341796339%
+Woven fabrics of < 85% synthetic staple fibers weighing > 170 g/m2,21162.0,5514,Textiles,0.000031854080058003674%
+"Men's overcoats, knit",20868.0,6101,Textiles,0.000031411536842000786%
+Vegetable textile fibers,19477.0,5305,Textiles,0.000029317735435674206%
+Other made up articles,19437.0,6307,Textiles,0.000029257525474313267%
+Cotton yarn for retail sale,19401.0,5207,Textiles,0.000029203336509088428%
+Quilted textile products,18555.0,5811,Textiles,0.000027929895826304612%
+Men's undergarments,16989.0,6207,Textiles,0.00002557267583902393%
+Synthetic sowing thread,16744.0,5401,Textiles,0.000025203889825688196%
+Hats,16367.0,6504,Textiles,0.000024636410939861362%
+Synthetic staple fibers sewing thread,15578.0,5508,Textiles,0.000023448769452016883%
+House linen,14489.0,6302,Textiles,0.000021809553253965374%
+Labels and badges of textiles,14343.0,5807,Textiles,0.000021589786894997956%
+Blankets,13936.0,6301,Textiles,0.00002097715053815042%
+Women's undergarments,13880.0,6208,Textiles,0.000020892856592245112%
+Braids in piece,13767.0,5808,Textiles,0.000020722763451400462%
+"Womens overcoats, not knit",12643.0,6202,Textiles,0.000019030863537158134%
+Garments knit with impregnated fibers,12300.0,6113,Textiles,0.000018514563118488104%
+Woven silk fabrics,11407.0,5007,Textiles,0.000017170375731105188%
+Woven fabrics of > 85% synthetic staple fibers,10403.0,5512,Textiles,0.00001565910570094567%
+Terry cloth,10053.0,5802,Textiles,0.00001513226853903747%
+Woven fabrics of cotton of < 85% weighing < 200 g/m2,9818.0,5210,Textiles,0.000014778535016041967%
+Synthetic filament yarn for retail sale,9195.0,5406,Textiles,0.000013840764867845375%
+Other carpets,8477.0,5705,Textiles,0.000012759996061416555%
+Woven fabrics of coarse animal hair,8290.0,5113,Textiles,0.000012478514492054176%
+Prefabricated buildings,8144.0,9406,Textiles,0.000012258748133086757%
+"Other clothing accesories, knit",7610.0,6117,Textiles,0.000011454945148918249%
+Woven fabrics of artificial filament yarn,6424.0,5408,Textiles,0.000009669719794566468%
+Umbrellas,6364.0,6601,Textiles,0.000009579404852525063%
+Textile wicks,5834.0,5908,Textiles,0.00000878162286449265%
+Wadding of textile materials,5526.0,5601,Textiles,0.000008318006162013434%
+Curtains,5195.0,6303,Textiles,0.000007819768731751682%
+Headbands,5140.0,6507,Textiles,0.000007736980034880392%
+"Babies' garments, knit",4850.0,6111,Textiles,0.000007300457815013601%
+Rubber textiles,4411.0,5604,Textiles,0.000006639653489077318%
+"Men's undergarments, knit",4313.0,6107,Textiles,0.000006492139083743023%
+"Men's overcoats, not knit",4049.0,6201,Textiles,0.0000060947533387608385%
+"Artificial monofilament >67dtex t<1mm, strip, straws t<5mm",3851.0,5405,Textiles,0.000005796714030024202%
+Nets,3843.0,5608,Textiles,0.0000057846720377520144%
+Textile bast fibers,3625.0,5303,Textiles,0.000005456527748334908%
+Postage or revenue stamps,3242.0,9704,Textiles,0.000004880017368303938%
+Woven fabrics of < 85% synthetic staple fibers weighing < 170 g/m2,3018.0,5513,Textiles,0.000004542841584682691%
+"Socks, stockings, etc., knit",2992.0,6115,Textiles,0.000004503705109798082%
+Handkerchiefs,2930.0,6213,Textiles,0.000004410379669688629%
+"Transmission belts or belting, of textile material",2913.0,5910,Textiles,0.000004384790436110231%
+"Carpets, tufted",2826.0,5703,Textiles,0.0000042538337701501935%
+Textile articles for technical use,2689.0,5911,Textiles,0.000004047614652488985%
+"Gloves, knit",2579.0,6116,Textiles,0.000003882037258746408%
+"Wool, combed",2575.0,5105,Textiles,0.000003876016262610314%
+"Articles of yarn, rope etc not elsewhere clasified",2543.0,5609,Textiles,0.0000038278482935215645%
+"Women's undergarments, knit",2490.0,6108,Textiles,0.0000037480700947183232%
+Woven pile fabrics,2250.0,5801,Textiles,0.0000033868103265527016%
+Brassieres,2205.0,6212,Textiles,0.0000033190741200216475%
+"Yarn of synthetic staple fibers, for retail sale",2028.0,5511,Textiles,0.000003052645040999502%
+Babies' garments,1954.0,6209,Textiles,0.0000029412566124817685%
+Woven fabrics of combed wool,1597.0,5112,Textiles,0.0000024038827073354064%
+Rubberized textile fabrics,1590.0,5906,Textiles,0.0000023933459640972422%
+"Yarn of carded wool, not for retail sale",1503.0,5106,Textiles,0.0000022623892981372046%
+"Cotton, carded or combed",1453.0,5203,Textiles,0.0000021871268464360335%
+Carpets of felt,1384.0,5704,Textiles,0.0000020832646630884174%
+Nonwoven textiles,1375.0,5603,Textiles,0.0000020697174217822064%
+Used or new rags textile scraps,1252.0,6310,Textiles,0.0000018845717905973256%
+"Activewear, knit",1221.0,6112,Textiles,0.0000018379090705425992%
+"Ties, bow ties and cravats",912.0,6215,Textiles,0.0000013727871190293617%
+Woven fabrics of artificial staple fibers,885.0,5516,Textiles,0.0000013321453951107292%
+"Women's overcoats, knit",375.0,6102,Textiles,5.644683877587836e-7%
+Gas turbines,4442489.0,8411,Machinery,0.006687052275909682%
+Dish washing machines,4160248.0,8422,Machinery,0.006262209283297877%
+Machines n.e.c.,3708759.0,8479,Machinery,0.005582605902175676%
+Watches with precious metal,1834536.0,9101,Machinery,0.002761433541881194%
+Parts and accessories for office machines,1625916.0,8473,Machinery,0.002447408488403228%
+Ships' derricks; cranes,1350101.0,8426,Machinery,0.0020322382260840573%
+Pumps for liquids,1110364.0,8413,Machinery,0.0016713743384143842%
+Appliances for thermostatically controlled valves,1096761.0,8481,Machinery,0.0016508984358045635%
+Machines used in metallurgy,962324.0,8454,Machinery,0.0014485372714175564%
+Parts for use with hoists and excavation machinery,920889.0,8431,Machinery,0.0013861672776927958%
+Navigational instruments,909437.0,9014,Machinery,0.0013689291657551597%
+Surveying instruments,895201.0,9015,Machinery,0.0013475004405068022%
+Centrifuges,881592.0,8421,Machinery,0.0013270155064027775%
+Machinery for working rubber or plastics,875584.0,8477,Machinery,0.0013179719702063647%
+"Pumps, compressors, fans, etc.",832856.0,8414,Machinery,0.001253655689480612%
+Parts suitable for use with spark-ignition engines,697288.0,8409,Machinery,0.0010495920884361245%
+Instruments for physical or chemical analysis,679934.0,9027,Machinery,0.001023469996699682%
+Instruments for measuring electricity,666500.0,9030,Machinery,0.0010032484811766113%
+Computers,645511.0,8471,Machinery,0.0009716548092014938%
+"Clock movements, complete",622969.0,9109,Machinery,0.0009377234854765378%
+Instruments for measuring properties of liquids or gases,620248.0,9026,Machinery,0.00093362770285496%
+Transmission shafts,557158.0,8483,Machinery,0.0008386615412984223%
+Other machinery for making paper,549064.0,8441,Machinery,0.0008264780556170368%
+Spark-ignition reciprocating internal combustion piston engines,540049.0,8407,Machinery,0.0008129082355753155%
+Medical instruments,435545.0,9018,Machinery,0.0006556036905237318%
+Brooms and mops,407592.0,9603,Machinery,0.000613527464275675%
+Measuring instruments,405076.0,9031,Machinery,0.0006097402577060721%
+Molding boxes for metal foundry,353978.0,8480,Machinery,0.0005328250425655432%
+Machinery for processing grain,273095.0,8437,Machinery,0.0004110759849466267%
+Air conditioners,245571.0,8415,Machinery,0.000369645510534166%
+Automatic regulating instruments,245508.0,9032,Machinery,0.0003695506798450225%
+Worked animal carving material,229903.0,9601,Machinery,0.000346061268669087%
+Compression-ignition internal combustion piston engines,225726.0,8408,Machinery,0.00033977384345397114%
+Pulleys and winches,223028.0,8425,Machinery,0.000335712681560176%
+Other engines and motors,216524.0,8412,Machinery,0.00032592254184288764%
+Ball or roller bearings,172113.0,8482,Machinery,0.00025907292699287336%
+Pens,168796.0,9608,Machinery,0.0002540800159470177%
+X-ray machines,153198.0,9022,Machinery,0.00023060114151432032%
+Looms,144859.0,8446,Machinery,0.00021804886981959903%
+Equipment for temperature change of materials,142443.0,8419,Machinery,0.00021441218815339844%
+Instruments designed for demonstrational purposes,132710.0,9023,Machinery,0.00019976159930524848%
+"Combs, hair-slides etc.",128535.0,9615,Machinery,0.00019347718458820063%
+Printers and copiers,121005.0,8443,Machinery,0.0001821426593620043%
+Machinery for working minerals,114745.0,8474,Machinery,0.00017271980040901765%
+Watches,111535.0,9102,Machinery,0.00016788795100980248%
+"Refrigerators, freezers",96567.0,8418,Machinery,0.0001453573834685399%
+Sprays and powder dispersers,93249.0,8424,Machinery,0.00014036296717365016%
+Furnace burners,85625.0,8416,Machinery,0.00012888694853825558%
+Machinery for preparing leather,81463.0,8453,Machinery,0.0001226221020586501%
+"Machinery parts, not containing electrical features, n.e.c.",80925.0,8485,Machinery,0.0001218122780783455%
+Weighing machinery,76761.0,8423,Machinery,0.00011554442110067197%
+Machine tools for molding and forging metals,75672.0,8462,Machinery,0.00011390520490262045%
+Machinery for the industrial preparation of food or drink,71553.0,8438,Machinery,0.00010770508413147797%
+"Tools for hand working, pneumatic, hydraulic motors",67569.0,8467,Machinery,0.00010170817197992865%
+"Other moving, excavating or boring machinery",64356.0,8430,Machinery,0.00009687180683361141%
+Electrostatic photo-copyers,62998.0,9009,Machinery,0.0000948276786454076%
+Liquid crystal devices,62573.0,9013,Machinery,0.00009418794780594764%
+Parts and accessories for metal working machines,62001.0,8466,Machinery,0.00009332694535848624%
+Therapy applicances,60947.0,9019,Machinery,0.00009174041287662556%
+Gaskets and similar joints of metal sheeting,59654.0,8484,Machinery,0.00008979412587563327%
+Toys,53186.0,9503,Machinery,0.00008005817512356976%
+Other agricultural machinery,52315.0,8436,Machinery,0.00007874710321493536%
+Binoculars and telescopes,51371.0,9005,Machinery,0.00007732614812681725%
+Vacuum vessels,49186.0,9617,Machinery,0.00007403717898747608%
+Other lifting machinery,47421.0,8428,Machinery,0.00007138041444242474%
+"Self-propelled bulldozers, excavators and road rollers",46175.0,8429,Machinery,0.00006950487414603155%
+Sewing machines,45236.0,8452,Machinery,0.00006809144530308356%
+"Thermometers, hydrometers etc.",39632.0,9025,Machinery,0.00005965602971641629%
+Machine tools for drilling by removing metal,35250.0,8459,Machinery,0.000053060028449325656%
+Machinery for processing fabrics,35223.0,8451,Machinery,0.00005301938672540703%
+Mannequins,33985.0,9618,Machinery,0.00005115588842128603%
+"Cash registers, calculators, etc.",29023.0,8470,Machinery,0.000043686842714461806%
+Steam turbines,26768.0,8406,Machinery,0.00004029250614273899%
+Other breathing appliances and gas masks,26679.0,9020,Machinery,0.0000401585389787109%
+Machinery for making printing components,23490.0,8442,Machinery,0.00003535829980921021%
+Glasses,23247.0,9004,Machinery,0.000034992524293942516%
+Drafting tables and machines,22284.0,9017,Machinery,0.00003354296947417796%
+"Gas, liquid or electricity meters",22266.0,9028,Machinery,0.00003351587499156553%
+"Musical instruments, percussion",19831.0,9206,Machinery,0.0000298505935937185%
+Harvesting or agricultural machinery,18655.0,8433,Machinery,0.000028080420729706952%
+Household- or laundry-type washing machines,18646.0,8450,Machinery,0.000028066873488400742%
+Other office machines,18293.0,8472,Machinery,0.000027535520579390474%
+Lenses and other optical elements,18246.0,9002,Machinery,0.000027464773874791373%
+Christmas and other festivity articles,17515.0,9505,Machinery,0.000026364436830920253%
+Slide fasteners,17005.0,9607,Machinery,0.000025596759823568305%
+Meters,16623.0,9029,Machinery,0.00002502175469257136%
+Games,15855.0,9504,Machinery,0.000023865723434441373%
+Buttons,15831.0,9606,Machinery,0.000023829597457624808%
+Machinery for soil preparation or cultivation,14653.0,8432,Machinery,0.000022056414095545214%
+Sports equipment,14376.0,9506,Machinery,0.00002163946011312073%
+Other machine tools for planing and cutting metals,14178.0,8461,Machinery,0.00002134142080438409%
+Auxiliary machinery for use with knitting and textile machines,14099.0,8448,Machinery,0.00002122250613069624%
+Scent sprays,13936.0,9616,Machinery,0.00002097715053815042%
+Metal-rolling mills,12961.0,8455,Machinery,0.000019509532729977586%
+"Musical instruments, electric",12270.0,9207,Machinery,0.0000184694056474674%
+Machines for testing the mechanical properties of materials,9667.0,9024,Machinery,0.00001455124241190443%
+Machinery for making paper,7962.0,8439,Machinery,0.000011984792808894492%
+Lathes for removing metal,7011.0,8458,Machinery,0.000010553300977538218%
+Cinematographic cameras and projectors,6898.0,9007,Machinery,0.000010383207836693572%
+Optical fibers,6806.0,9001,Machinery,0.000010244724925563418%
+"Calendering or other rolling machines, other than for metals or glass",6804.0,8420,Machinery,0.00001024171442749537%
+Machining centers for working metal,6098.0,8457,Machinery,0.000009179008609474834%
+Pianos,6035.0,9201,Machinery,0.000009084177920331357%
+Machines with grinding stones for finishing metal,5333.0,8460,Machinery,0.000008027493098446914%
+"Other machine tools for working metal, without removal",5085.0,8463,Machinery,0.000007654191338009105%
+Water gas generators,4791.0,8405,Machinery,0.000007211648122006219%
+Balances of a sensitivity < 50 milligram,4714.0,9016,Machinery,0.000007095743946386415%
+Other parts for machines and appliances,4394.0,9033,Machinery,0.0000066140642554989206%
+Machines for working materials by laser and similar means,4358.0,8456,Machinery,0.0000065598752902740774%
+Orthopedic appliances,4096.0,9021,Machinery,0.00000616550004335994%
+Worked vegetable or mineral carving material,3963.0,9602,Machinery,0.000005965301921834825%
+"Microscopes, other than optical",3939.0,9012,Machinery,0.000005929175945018263%
+"Pencils, crayons, pastels, etc.",3937.0,9609,Machinery,0.0000059261654469502155%
+Instrument panel clocks for vehicles,3640.0,9104,Machinery,0.00000547910648384526%
+Fishing and hunting equipment,3520.0,9507,Machinery,0.000005298476599762449%
+Machine tools for working wood,3395.0,8465,Machinery,0.000005110320470509521%
+Industrial furnaces,3279.0,8417,Machinery,0.000004935711582562804%
+Typewriter ribbons and ink pads,2440.0,9612,Machinery,0.000003672807643017152%
+"Apparatus and equipment for photographic laboratories, n.e.c.",2301.0,9010,Machinery,0.0000034635780272878957%
+Machine tools for working stone,2147.0,8464,Machinery,0.000003231769676048289%
+Machinery for soldering,2130.0,8468,Machinery,0.000003206180442469891%
+"Musical instruments, string",2104.0,9202,Machinery,0.000003167043967585282%
+"Other musical instruments, n.e.c.",1974.0,9208,Machinery,0.000002971361593162237%
+Travel sets,1790.0,9605,Machinery,0.000002694395770901927%
+Bookbinding machinery,1582.0,8440,Machinery,0.000002381303971825055%
+"Frames for spectacles, goggles",1495.0,9003,Machinery,0.000002250347305865017%
+Watch straps,1286.0,9113,Machinery,0.000001935750257754122%
+Automatic goods-vending machines,927.0,8476,Machinery,0.0000013953658545397131%
+Cigarette lighters,826.0,9613,Machinery,0.0000012433357021033473%
+Machinery for preparing tobacco,532.0,8478,Machinery,8.00792486100461e-7%
+"Transmission apparatus for radio, telephone and TV",5536466.0,8525,Electronics,0.008333760098403524%
+Batteries,4478893.0,8507,Electronics,0.006741849361744271%
+Electronic integrated circuits,4139238.0,8542,Electronics,0.006230584001093045%
+Primary cells and primary batteries,2465837.0,8506,Electronics,0.0037116987623092147%
+Telephones,2372990.0,8517,Electronics,0.0035719409052472426%
+Waste and scrap of batteries,2113835.0,8548,Electronics,0.0031818480918349022%
+Electrical transformers,1260192.0,8504,Electronics,0.0018969027906840454%
+Electronic printed circuits,949485.0,8534,Electronics,0.0014292113790697297%
+Video recording apparatus,838362.0,8521,Electronics,0.0012619435906619449%
+Electric motors and generators,710243.0,8501,Electronics,0.001069092589671898%
+Radar,613740.0,8526,Electronics,0.0009238315421415356%
+Parts for electrical apparatus,569271.0,8538,Electronics,0.000856894622847548%
+Electrical boards,419625.0,8537,Electronics,0.0006316401259020788%
+Monitors and projectors,410241.0,8528,Electronics,0.000617514868966803%
+Electrical ignition equipment,375184.0,8511,Electronics,0.0005647453535810439%
+Electrical apparatus for < 1k volts,344377.0,8536,Electronics,0.0005183731465898844%
+Electric generating sets and rotary converters,343990.0,8502,Electronics,0.0005177906152137172%
+Electrical machines with individual functions n.e.c.,303711.0,8543,Electronics,0.0004571606893722878%
+Electric sound or visual signaling apparatus,275397.0,8531,Electronics,0.00041454106822294865%
+Sound storage media,204656.0,8523,Electronics,0.00030805824630709765%
+"Parts of radios, telephones, and T.V.s",188675.0,8529,Electronics,0.00028400286149436933%
+Electrical lighting equipment used for motor vehicles,174176.0,8512,Electronics,0.0002621782557500637%
+Electrical filament,173191.0,8539,Electronics,0.00026069558545155065%
+Insulated electrical wire,171320.0,8544,Electronics,0.0002578792645088928%
+Industrial electric furnaces,90894.0,8514,Electronics,0.000136818105698525%
+Semiconductor devices,65567.0,8541,Electronics,0.00009869466341381377%
+Insulating fittings for electrical machines,62381.0,8547,Electronics,0.00009389893999141514%
+Microphones,57080.0,8518,Electronics,0.00008591961486205698%
+Electric soldering machines,55884.0,8515,Electronics,0.00008411933701736497%
+Electrical insulators of any material,35406.0,8546,Electronics,0.00005329484729863331%
+Portable electric lamps,28099.0,8513,Electronics,0.000042295992607024164%
+Electric heaters,25516.0,8516,Electronics,0.00003840793435214166%
+Reception apparatus for radio broadcasting,25032.0,8527,Electronics,0.00003767939381967432%
+Vacuum cleaners,24892.0,8508,Electronics,0.000037468658954911044%
+Carbon articles for eletrical purposes,18411.0,8545,Electronics,0.00002771313996540524%
+Electrical apparatus for > 1k volts,8547.0,8535,Electronics,0.000012865363493798195%
+Parts for use with electric generators,8247.0,8503,Electronics,0.000012413788783591167%
+Sound reproducing apparatus,6504.0,8519,Electronics,0.000009790139717288343%
+Electromechanical domestic appliances,5653.0,8509,Electronics,0.00000850917278933441%
+"Tapes, cassettes, records and compact disks",2290.0,8524,Electronics,0.0000034470202879136383%
+Electrical resistors,1821.0,8533,Electronics,0.000002741058490956653%
+Parts and accessories for video or sound equipment,1604.0,8522,Electronics,0.0000024144194505735702%
+Electromagnets,1011.0,8505,Electronics,0.0000015218067733976806%
+"Thermionic, cold cathode or photocathode tubes",747.0,8540,Electronics,0.0000011244210284154968%
