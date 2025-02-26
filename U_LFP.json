@@ -13,6 +13,7 @@
         "x": {
           "field": "Educational level",
           "type": "ordinal",
+          "sort": ["Youth", "Basic", "Intermediate", "Advanced"],
           "axis": {"labelAngle": 0}
         },
         "y": {
@@ -40,6 +41,7 @@
         "x": {
           "field": "Educational level",
           "type": "ordinal",
+          "sort": ["Youth", "Basic", "Intermediate", "Advanced"],
           "axis": {"labelAngle": 0}
         },
         "y": {
