@@ -1,0 +1,68 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "A dual axis chart with unemployment rates as bars and labour force participation rates as scattered points.",
+  "width": 400,
+  "height": 300,
+  "data": {
+    "url": "https://raw.githubusercontent.com/louisflamencourt/GrowthDiag/refs/heads/main/U_LFP.csv"
+  },
+  "layer": [
+    {
+      "mark": "bar",
+      "encoding": {
+        "x": {
+          "field": "Educational level",
+          "type": "ordinal",
+          "axis": {"labelAngle": 0}
+        },
+        "y": {
+          "field": "Unemployment rate",
+          "type": "quantitative",
+          "axis": {
+            "grid": false,
+            "orient": "left",
+            "titleColor": "black",
+            "titleAngle": 0,
+            "titleX": 0,
+            "titleY": -10,
+            "titleAnchor": "start",
+            "labelExpr": "datum.value+'%'",
+            "title": "Unemployment Rate"
+          },
+          "scale": {"domain": [0, 10]}
+        },
+        "color": {"value": "#b5dbdc"}
+      }
+    },
+    {
+      "mark": "point",
+      "encoding": {
+        "x": {
+          "field": "Educational level",
+          "type": "ordinal",
+          "axis": {"labelAngle": 0}
+        },
+        "y": {
+          "field": "Labour force participation",
+          "type": "quantitative",
+          "axis": {
+            "grid": false,
+            "orient": "right",
+            "titleColor": "black",
+            "titleAngle": 0,
+            "titleX": -140,
+            "titleY": -10,
+            "titleAnchor": "start",
+            "labelExpr": "datum.value+'%'",
+            "title": "Labour Force Participation Rate",
+            "titleColor": "black"
+          },
+          "scale": {"domain": [0, 100]}
+        },
+        "color": {"value": "red"}
+      }
+    }
+  ],
+  "resolve": {"scale": {"y": "independent"}},
+  "title": "Unemployment Rate and Labour Force Participation Rate by Educational Level"
+}
