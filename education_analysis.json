@@ -1,0 +1,106 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": {
+    "text": "Mean income by educational level, Nigeria",
+    "subtitle": ["Mean income in thousand NGN"],
+    "color": "#122b39E6",
+    "subtitleColor": "#676A86",
+    "anchor": "start",
+    "dx": 24,
+    "fontSize": 14,
+    "subtitleFontSize": 12,
+    "subtitlePadding": 4,
+    "offset": 10
+  },
+  "width": 450,
+  "height": 300,
+  "config": {
+    "font": "Times New Roman",
+    "view": {"stroke": "transparent", "width": 400},
+    "range": {
+      "category": [
+        "#001f3f",
+        "#4269d0",
+        "#efb118",
+        "#ff725c",
+        "#6cc5b0",
+        "#3ca951",
+        "#ff8ab7",
+        "#a463f2",
+        "#97bbf5",
+        "#9c6b4e"
+      ],
+      "diverging": ["#E6224B", "#E54753", "#C9C9C9", "#179FDB", "#122B39"],
+      "heatmap": ["#C9C9C9", "#179FDB", "#0063AF", "#122B39"],
+      "ordinal": ["#00A767", "#36B7B4", "#179FDB", "#0063AF", "#243B5A"]
+    },
+    "axisX": {
+      "labelColor": "#122b39",
+      "tickColor": "#122b39",
+      "domainColor": "#122b39",
+      "domainOpacity": 0.5,
+      "gridOpacity": 0,
+      "labelFont": "Times New Roman",
+      "labelFontSize": 11,
+      "labelPadding": 5,
+      "tickSize": 0,
+      "title": ""
+    },
+    "axisY": {
+      "labelColor": "#122b39",
+      "labelFont": "Times New Roman",
+      "tickColor": "#122b39",
+      "domainColor": "#122b39",
+      "gridColor": "#122b39",
+      "gridDash": [1, 5],
+      "gridOpacity": 0.5,
+      "labelPadding": 5,
+      "labelFontSize": 11,
+      "domainOpacity": 0.5,
+      "tickSize": 0,
+      "titleAlign": "left",
+      "titleAngle": 0,
+      "titleBaseline": "bottom",
+      "titleColor": "#122b39",
+      "titleOpacity": 0.9,
+      "titleX": 0,
+      "titleY": -7
+    }
+  },
+  "layer": [
+    {
+      "mark": {"type": "bar"},
+      "encoding": {
+        "y": {
+          "field": "Educational level",
+          "type": "nominal",
+          "sort": ["None", "Primary ", "Junior secondary", "Senior secondary / Diploma", "Nursing school", "Bachelor", "Masters", "Doctorate"],
+          "title": ""
+        },
+        "x": {
+          "field": "Mean income (thousands)",
+          "type": "quantitative",
+          "title": ""
+        },
+        "color": {"value": "#93B7BE"}
+      }
+    },
+    {
+      "mark": {
+        "type": "text", 
+        "align": "left", 
+        "baseline": "middle", 
+        "dx": 5,
+        "text": {"expr": "'₦'+datum['Mean income (thousands)'] + ' k'"}
+      },
+      "encoding": {
+        "y": {"field": "Educational level", "type": "nominal", "sort": ["None", "Primary ", "Junior secondary", "Senior secondary / Diploma", "Nursing school", "Bachelor", "Masters", "Doctorate"]},
+        "x": {"field": "Mean income (thousands)", "type": "quantitative"}
+      }
+    }
+  ],
+  "data": {
+    "url": "https://raw.githubusercontent.com/louisflamencourt/GrowthDiag/refs/heads/main/Education%20analysis.csv",
+    "format": {"type": "csv"}
+  }
+}
