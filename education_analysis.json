@@ -15,7 +15,7 @@
   "width": 450,
   "height": 300,
   "config": {
-    "font": "Times New Roman",
+    "font": "Circular Std Book",
     "view": {"stroke": "transparent", "width": 400},
     "range": {
       "category": [
@@ -48,7 +48,7 @@
     },
     "axisY": {
       "labelColor": "#122b39",
-      "labelFont": "Times New Roman",
+      "labelFont": "Circular Std Book",
       "tickColor": "#122b39",
       "domainColor": "#122b39",
       "gridColor": "#122b39",
