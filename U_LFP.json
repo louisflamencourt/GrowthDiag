@@ -1,6 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "description": "A dual axis chart with unemployment rates as bars and labour force participation rates as scattered points.",
+  "description": "A dual axis chart with unemployment rates as bars and labour force participation rates as filled red points.",
   "width": 450,
   "height": 300,
   "data": {
@@ -36,7 +36,7 @@
       }
     },
     {
-      "mark": "point",
+      "mark": {"type": "point", "filled": true, "size": 100},
       "encoding": {
         "x": {
           "field": "Educational level",
@@ -50,14 +50,15 @@
           "axis": {
             "grid": false,
             "orient": "right",
-            "titleColor": "black",
+            "titleColor": "red",
             "titleAngle": 0,
             "titleX": -140,
             "titleY": -10,
             "titleAnchor": "start",
             "labelExpr": "datum.value+'%'",
             "title": "Labour Force Participation Rate",
-            "titleColor": "black"
+            "labelColor": "red",
+            "tickColor": "red"
           },
           "scale": {"domain": [0, 100]}
         },
