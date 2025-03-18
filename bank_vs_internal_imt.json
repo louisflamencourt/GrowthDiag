@@ -1,0 +1,54 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 500,
+  "height": 350,
+  "data": {
+    "values": [
+      {"Country": "Nigeria", "Series": "Investment financed by banks (%)", "Value": 3.4},
+      {"Country": "Nigeria", "Series": "Investment financed internally (%)", "Value": 52.5},
+      {"Country": "Tanzania", "Series": "Investment financed by banks (%)", "Value": 8.8},
+      {"Country": "Tanzania", "Series": "Investment financed internally (%)", "Value": 79.6},
+      {"Country": "South Africa", "Series": "Investment financed by banks (%)", "Value": 25.8},
+      {"Country": "South Africa", "Series": "Investment financed internally (%)", "Value": 68.5},
+      {"Country": "Malaysia", "Series": "Investment financed by banks (%)", "Value": 15.7},
+      {"Country": "Malaysia", "Series": "Investment financed internally (%)", "Value": 67.2},
+      {"Country": "Kenya", "Series": "Investment financed by banks (%)", "Value": 20.7},
+      {"Country": "Kenya", "Series": "Investment financed internally (%)", "Value": 67.7},
+      {"Country": "Cote d'Ivoire", "Series": "Investment financed by banks (%)", "Value": 14.9},
+      {"Country": "Cote d'Ivoire", "Series": "Investment financed internally (%)", "Value": 72.4}
+    ]
+  },
+  "transform": [
+    {
+      "calculate": "datum.Series === 'Investment financed by banks (%)' ? 'Bank investment' : 'Internal investment'",
+      "as": "Investment Type"
+    }
+  ],
+  "mark": "bar",
+  "encoding": {
+    "x": {
+      "field": "Country",
+      "type": "nominal",
+      "title": "",
+      "sort": "-y",
+      "axis": {"labelAngle": 0, "labelFontSize": 12, "titleFontSize": 12}
+    },
+    "y": {
+      "field": "Value",
+      "type": "quantitative",
+      "title": "Proportion of investment (%)",
+      "axis": {"labelFontSize": 12, "titleFontSize": 12}
+    },
+    "color": {
+      "field": "Investment Type",
+      "type": "nominal",
+      "title": "Source of investment",
+      "scale": {
+        "domain": ["Bank investment", "Internal investment"],
+        "range": ["orange", "#ADC9E9"]
+      },
+      "legend": {"titleFontSize": 12, "labelFontSize": 12, "orient": "bottom"}
+    }
+  },
+  "title": {"text": "Investment Financed by Banks vs Internally", "fontSize": 12}
+}
