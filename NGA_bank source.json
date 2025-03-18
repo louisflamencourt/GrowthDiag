@@ -1,0 +1,49 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 100,
+  "height": 400,
+  "background": "#DADADA",
+  "data": {
+    "values": [
+      {"Bank": 55.11104442, "Central bank": 13.54045352, "Other financial intermediaries": 4.021984486}
+    ]
+  },
+  "transform": [
+    {
+      "fold": ["Bank", "Central bank", "Other financial intermediaries"],
+      "as": ["Type", "Value"]
+    }
+  ],
+  "mark": {
+    "type": "bar",
+    "width": 60
+  },
+  "encoding": {
+    "x": {
+      "value": 50
+    },
+    "y": {
+      "field": "Value",
+      "type": "quantitative",
+      "title": "Value",
+      "stack": "zero",
+      "scale": {"domain": [0, 500]},
+      "axis": {
+        "tickCount": 5,
+        "tickColor": "white",
+        "gridColor": "white"
+      }
+    },
+    "order": {"aggregate": "sum", "field": "Value", "sort": "descending"},
+    "color": {
+      "field": "Type",
+      "type": "nominal",
+      "title": "Source",
+      "scale": {
+        "domain": ["Bank", "Central bank", "Other financial intermediaries"],
+        "range": ["#B98491", "#7BABDC", "#DEC397"]
+      }
+    }
+  },
+  "title": ""
+}
