@@ -1,0 +1,46 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 500,
+  "height": 400,
+  "data": {"url": "https://raw.githubusercontent.com/louisflamencourt/GrowthDiag/refs/heads/main/sectorCAGR.csv"},
+  "layer": [
+    {
+      "mark": {"type": "circle", "size": 500, "color": "green"},
+      "encoding": {
+        "x": {
+          "field": "GDP_CAGR",
+          "type": "quantitative",
+          "scale": {"domain": [-40, 10]},
+          "axis": {"title": "GDP CAGR (%)", "titleFontSize": 14, "labelFontSize": 14,  "labelExpr": "datum.value+'%'",}
+        },
+        "y": {
+          "field": "DC_CAGR",
+          "type": "quantitative",
+          "scale": {"domain": [0, 30]},
+          "axis": {"title": "Domestic Credit CAGR (%)", "titleFontSize": 14, "labelFontSize": 14,  "labelExpr": "datum.value+'%'",}
+        },
+        "tooltip": {"field": "Sector", "type": "nominal"}
+      }
+    },
+    {
+      "mark": {
+        "type": "text",
+        "align": {
+          "expr": "{\"Agriculture\": \"right\", \"Construction\": \"right\", \"Crude Oil & Gas (upstream)\": \"right\", \"Education\": \"right\", \"Power & Energy\": \"right\", \"Finance & Insurance\": \"right\", \"Government\": \"left\", \"Info & communication\": \"right\", \"Manufacturing\": \"right\", \"Mining & Quarrying\": \"right\", \"Oil Refining (downstream)\": \"left\", \"Other Services\": \"right\", \"Real Estate\": \"right\", \"Transport & Storage\": \"left\"}[datum.Sector]"
+        },
+        "dx": {
+          "expr": "{\"Agriculture\": -16, \"Construction\": -25, \"Crude Oil & Gas (upstream)\": -16, \"Education\": -16, \"Power & Energy\": -16, \"Finance & Insurance\": -16, \"Government\": 20, \"Info & communication\": -16, \"Manufacturing\": -16, \"Mining & Quarrying\": -16, \"Oil Refining (downstream)\": 20, \"Other Services\": -16, \"Real Estate\": -16, \"Transport & Storage\": 10}[datum.Sector]"
+        },
+        "dy": {
+          "expr": "{\"Agriculture\": 0, \"Construction\": 0, \"Crude Oil & Gas (upstream)\": 0, \"Education\": 0, \"Power & Energy\": 0, \"Finance & Insurance\": 0, \"Government\": 0, \"Info & communication\": 0, \"Manufacturing\": 0, \"Mining & Quarrying\": 0, \"Oil Refining (downstream)\": 0, \"Other Services\": 0, \"Real Estate\": 0, \"Transport & Storage\": -10}[datum.Sector]"
+        },
+        "fontSize": 14
+      },
+      "encoding": {
+        "x": {"field": "GDP_CAGR", "type": "quantitative"},
+        "y": {"field": "DC_CAGR", "type": "quantitative"},
+        "text": {"field": "Sector", "type": "nominal"}
+      }
+    },
+  ]
+}
