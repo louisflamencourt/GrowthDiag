@@ -34,6 +34,10 @@
         "color": {
           "field": "Sector",
           "type": "nominal",
+          "scale": {
+            "domain": ["Agriculture", "Construction", "Crude Petroleum And Natural Gas", "Education", "Electricity Gas Steam And Air Conditioner", "Finance And Insurance", "Government", "Information And Communication", "Manufacturing", "Mining And Quarrying", "Other Services", "Real Estate", "Transportation And Storage"],
+            "range": ["#1f77b4", "#ff7f0e", "#2ca02c", "#d62728", "#9467bd", "#8c564b", "#e377c2", "#7f7f7f", "#bcbd22", "#17becf", "#1b9e77", "#d95f02", "#7570b3"]
+          },
           "legend": {"title": "Sector"}
         },
         "tooltip": {"field": "Sector", "type": "nominal"}
@@ -50,7 +54,7 @@
         {
           "regression": "Secondary",
           "on": "GDP_CAGR",
-          "extent": [-10, 10] 
+          "extent": [-10, 10]
         }
       ],
       "encoding": {
