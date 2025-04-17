@@ -36,8 +36,9 @@
     "y": {
       "field": "Value",
       "type": "quantitative",
-      "title": "Proportion of investment (%)",
-      "axis": {"labelFontSize": 12, "titleFontSize": 12}
+      "title": "Share of total investment (%)",
+      "axis": {"labelFontSize": 12, "titleFontSize": 12},
+      "stack":  "normalize"
     },
     "color": {
       "field": "Investment Type",
@@ -45,7 +46,7 @@
       "title": "Source of investment",
       "scale": {
         "domain": ["Bank investment", "Internal investment"],
-        "range": ["orange", "#ADC9E9"]
+        "range": ["#1B7339 ", "#FFD700"]
       },
       "legend": {"titleFontSize": 12, "labelFontSize": 12, "orient": "bottom"}
     }
