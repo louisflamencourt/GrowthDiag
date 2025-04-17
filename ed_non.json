@@ -1,0 +1,62 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 500,
+  "height": 400,
+  "data": {
+    "url": "https://raw.githubusercontent.com/louisflamencourt/GrowthDiag/refs/heads/main/edCAGR.csv"
+  },
+  "layer": [
+    {
+      "mark": {"type": "circle", "size": 500},
+      "encoding": {
+        "x": {
+          "field": "GDP_CAGR",
+          "type": "quantitative",
+          "scale": {"domain": [-10, 10]},
+          "axis": {
+            "title": "Gross value added CAGR (%)",
+            "titleFontSize": 14,
+            "labelFontSize": 14,
+            "labelExpr": "datum.value+'%'"
+          }
+        },
+        "y": {
+          "field": "None",
+          "type": "quantitative",
+          "scale": {"domain": [-10, 40]},
+          "axis": {
+            "title": "Share of no education attainment (%)",
+            "titleFontSize": 14,
+            "labelFontSize": 14,
+            "labelExpr": "datum.value+'%'"
+          }
+        },
+        "color": {
+          "field": "Sector",
+          "type": "nominal",
+          "legend": {"title": "Sector"}
+        },
+        "tooltip": {"field": "Sector", "type": "nominal"}
+      }
+    },
+    {
+      "mark": {
+        "type": "line",
+        "stroke": "darkgreen",
+        "strokeWidth": 3,
+        "opacity": 0.8
+      },
+      "transform": [
+        {
+          "regression": "None",
+          "on": "GDP_CAGR",
+          "extent": [-10, 10] 
+        }
+      ],
+      "encoding": {
+        "x": {"field": "GDP_CAGR", "type": "quantitative"},
+        "y": {"field": "None", "type": "quantitative"}
+      }
+    }
+  ]
+}
